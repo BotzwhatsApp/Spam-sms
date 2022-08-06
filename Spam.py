@@ -98,9 +98,9 @@ def logo():
 
 	print(f"{biru}Subscribe Channel {W}Aing Dulu Sluur{biru} ! ! !{G}")
 
-	os.system("xdg-open https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ")
-
-	time.sleep(10)
+	os . sistem ( "xdg-buka    "    https : //    youtube .com    / channel /  UCXAKJ3xv25Q2Blnpl4hD6CA )   
+kami
+	waktu . tidur ( 10 )
 
 	os.system("clear")
 
