@@ -1,0 +1,135 @@
+# File aplikasi yang dibangun
+
+*.apk
+
+*.aar
+
+*.ap_
+
+*.aab
+
+# File untuk ART/Dalvik VM
+
+*.dex
+
+# File kelas Java
+
+*.kelas
+
+# File yang dihasilkan
+
+tempat sampah/
+
+gen/
+
+keluar/
+
+# Batalkan komentar pada baris berikut jika Anda membutuhkannya dan Anda tidak memiliki file tipe build rilis di aplikasi Anda
+
+# melepaskan/
+
+# File gradle
+
+.gradle/
+
+membangun/
+
+# File konfigurasi lokal (jalur sdk, dll)
+
+lokal.properti
+
+# Folder Proguard dihasilkan oleh Eclipse
+
+proguard/
+
+# File Log
+
+*.catatan
+
+# File sementara editor Navigasi Android Studio
+
+.navigasi/
+
+# Android Studio menangkap folder
+
+menangkap/
+
+# IntelliJ
+
+*.iml
+
+.ide/ruang kerja.xml
+
+.idea/tasks.xml
+
+.ide/gradle.xml
+
+.idea/assetWizardSettings.xml
+
+.ide/kamus
+
+.ide/perpustakaan
+
+# Android Studio 3 dalam file .gitignore.
+
+.ide/cache
+
+.ide/modul.xml
+
+# Komentari baris berikutnya jika menjaga posisi elemen di Editor Navigasi relevan untuk Anda
+
+.idea/navEditor.xml
+
+# File penyimpanan kunci
+
+# Batalkan komentar pada baris berikut jika Anda tidak ingin memeriksa file keystore Anda.
+
+#*.jks
+
+#*.keystore
+
+# Folder build asli eksternal yang dibuat di Android Studio 2.2 dan yang lebih baru
+
+.externalNativeBuild
+
+.cxx/
+
+# Layanan Google (mis. API atau Firebase)
+
+# google-services.json
+
+# Garis bebas
+
+freeline.py
+
+garis bebas/
+
+freeline_project_description.json
+
+# jalur cepat
+
+fastlane/laporan.xml
+
+fastlane/Preview.html
+
+jalur cepat/tangkapan layar
+
+fastlane/test_output
+
+fastlane/readme.md
+
+# Kontrol versi
+
+vcs.xml
+
+# serat
+
+serat/perantara/
+
+serat / dihasilkan /
+
+serat/keluaran/
+
+serat/tmp/
+
+# serat/laporan/
