@@ -1,6 +1,6 @@
-# Decompile By AmmarrBN
-
-# Buat Belajar Juga Ya Ngab Biar Jago
+# Dekompilasi Oleh Bot WhatsApp 
+kami
+#Buat Belajar Juga Ya Ngab Biar Jago
 
 # Opem Source Code Spesial 1k Subs
 
@@ -10,10 +10,10 @@
 
 import os,sys,time,requests,re,json
 
-from colorama import Fore,Back,init
-
-B = Fore.BLUE
-
+dari  colorama  import  Fore , Back , init
+kami
+B   =   Depan . BIRU
+kami
 W = Fore.WHITE
 
 R = Fore.RED
